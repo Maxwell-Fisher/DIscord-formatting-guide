@@ -1,0 +1,59 @@
+***```fix
+Discord text formatting guide
+By Maxwellcrafter```***
+
+\**ITALIC*\*
+
+\~\~~~STRIKETHRU~~\~\~
+
+\_\___UNDERLINE__\_\_
+
+\*\***BOLD**\*\*
+
+\*\*\****BOLD + ITALIC***\*\*\*
+
+\\ESCAPE\\
+
+<HIDE LINK PREVIEW>
+
+> > QUOTE
+
+> >>> QUOTE
+> BLOCK
+
+\``CODE`\`
+
+\`\`\````CODE BLOCK```\`\`\`
+
+\`\`\`diff
+```diff
+- RED```\`\`\`
+
+\`\`\`CSS
+```CSS
+[ORANGE]```\`\`\`
+
+\`\`\`fix```fix
+YELLOW```\`\`\`
+
+\`\`\`diff
+```diff
++ GREEN```\`\`\`
+
+\`\`\`bash
+```bash
+"AQUA"```\`\`\`
+
+\`\`\`ini
+```ini
+[BLUE]```\`\`\`
+
+\<#channel id>
+
+\<@user id>
+
+\<@&role id>
+
+\<@!nickname id>
+
+\<\:emoji name\:emoji id>
